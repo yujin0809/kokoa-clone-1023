@@ -2,15 +2,15 @@
     position: absolute;
     z-index: 999;
     height: 100vh;
-    background-color: var(--yellow);
     width: 100vw;
+    background-color: var(--yellow);
     display: flex;
-    top: 0;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    top: 0;
+    font-size: 32px;
 }
-@media (max-width: 645px) {
+@media screen and (max-width: 645px){
     #no-mobile{
         display: none;
     }

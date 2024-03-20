@@ -1,3 +1,1 @@
-# KoKoa Clone 1023 Update
-
-HTML & CSS are so much fun!
+노마드코더 코코아클론 마지막과제
